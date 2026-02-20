@@ -32,21 +32,6 @@ Infra        CI/CD · Distributed Systems · Secure Payments
 | **Tiny Armies** | 8-player real-time multiplayer strategy (deterministic lockstep) | ⭐ Google Play Featured |
 | **Mowy Lawn** | AR arcade puzzle game (ARKit / ARCore) | ⭐ App Store Featured |
 | **Rebounce!** | Physics-based multiplayer trick shot game | 📱 200K+ downloads |
-| **Pax Britannica** | Android port of acclaimed open-source RTS | 📱 50K+ downloads |
-
-#### 📈 Career Snapshot
-
-```text
-2021 – now    Senior Software Engineer    Wandelbots GmbH          Robotics · AI · 3D Viz
-2015 – 2021   Tech Lead                   Die Kapitäne Media GmbH  Mobile Games · AR
-2013 – 2015   Research Assistant           Fraunhofer IGD           Data Viz · WebGL
-2011 – 2012   Diploma Thesis              Crytek GmbH              3D Compression
-```
-
-#### 🎓 Education
-
-**TU Dresden** — Diploma in Media Informatics
-Focus: Computer Graphics & Distributed Systems
 
 ---
 
