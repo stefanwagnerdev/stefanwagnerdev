@@ -34,12 +34,3 @@ Infra        CI/CD · A/B Testing · Analytics
 | **Tiny Armies** | 8-player real-time multiplayer strategy (deterministic lockstep) | ⭐ Google Play Featured |
 | **Mowy Lawn** | AR arcade puzzle game (ARKit / ARCore) | ⭐ App Store Featured |
 | **Rebounce!** | Physics-based multiplayer trick shot game | 📱 200K+ downloads |
-
----
-
-<p align="center">
-  <a href="https://stefanwagner.dev"><img src="https://img.shields.io/badge/Portfolio-stefanwagner.dev-blue?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/stefan-wagner-developer/"><img src="https://img.shields.io/badge/LinkedIn-stefan--wagner-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://twitter.com/twbompo"><img src="https://img.shields.io/badge/X-@twbompo-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter"/></a>&nbsp;
-  <a href="mailto:mail@stefanwagner.dev"><img src="https://img.shields.io/badge/Email-mail%40stefanwagner.dev-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
