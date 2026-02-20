@@ -1,3 +1,5 @@
+<a href="https://stefanwagner.dev"><img src="social_preview.jpg" alt="Stefan Wagner — Senior Software Engineer" width="100%"/></a>
+
 ### Hey there, I'm Stefan 👋
 
 Senior Software Engineer with 20+ years of experience — currently building the future of industrial robotics at [Wandelbots](https://www.wandelbots.com/) in Dresden, Germany.
