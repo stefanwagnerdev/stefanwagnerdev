@@ -21,7 +21,7 @@ Languages    TypeScript · Python · C# · Java · JavaScript
 Frontend     React · Three.js · WebGL · Material-UI · d3.js
 AI / ML      TensorFlow · Imitation Learning · Agentic AI
 Game Dev     Unity · libGDX · ARKit / ARCore
-Infra        CI/CD · Distributed Systems · Secure Payments
+Infra        CI/CD · A/B Testing · Analytics
 ```
 
 #### 🚀 Highlighted Projects
