@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Stefan 👋
 
-Senior Software Engineer with 20+ years of experience — currently building the future of industrial robotics at [Wandelbots](https://www.wandelbots.com/) in Dresden, Germany.
+Senior Software Engineer with 20+ years of experience, currently building the future of industrial robotics at [Wandelbots](https://www.wandelbots.com/) in Dresden, Germany.
 
 I love turning complex challenges into elegant solutions, from programming industrial robots with AI to creating multiplayer games played by millions.
 
